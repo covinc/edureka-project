@@ -2,36 +2,36 @@
 <testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2020-11-23T11:16:31 EST" name="Default suite" finished-at="2020-11-23T11:17:21 EST" duration-ms="50327">
+  <suite started-at="2020-11-23T21:27:50 EST" name="Default suite" finished-at="2020-11-23T21:28:33 EST" duration-ms="42865">
     <groups>
     </groups>
-    <test started-at="2020-11-23T11:16:31 EST" name="Default test" finished-at="2020-11-23T11:17:21 EST" duration-ms="50327">
-      <class name="appleBite.AboutTest.ClickAbout">
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:appleBite.AboutTest.ClickAbout@424e1977]" started-at="2020-11-23T11:16:31 EST" name="beforeMethod" finished-at="2020-11-23T11:17:05 EST" duration-ms="33922" status="PASS">
+    <test started-at="2020-11-23T21:27:50 EST" name="Default test" finished-at="2020-11-23T21:28:33 EST" duration-ms="42865">
+      <class name="com.appleBite.AboutTest.clickAbout">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.appleBite.AboutTest.clickAbout@2638011]" started-at="2020-11-23T21:27:50 EST" name="beforeMethod" finished-at="2020-11-23T21:28:15 EST" duration-ms="25558" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="clickAboutUs()[pri:0, instance:appleBite.AboutTest.ClickAbout@424e1977]" started-at="2020-11-23T11:17:05 EST" name="clickAboutUs" finished-at="2020-11-23T11:17:06 EST" duration-ms="414" status="PASS">
+        <test-method signature="clickAboutUs()[pri:0, instance:com.appleBite.AboutTest.clickAbout@2638011]" started-at="2020-11-23T21:28:15 EST" name="clickAboutUs" finished-at="2020-11-23T21:28:16 EST" duration-ms="317" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- clickAboutUs -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:appleBite.AboutTest.ClickAbout@424e1977]" started-at="2020-11-23T11:17:06 EST" name="afterMethod" finished-at="2020-11-23T11:17:06 EST" duration-ms="245" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.appleBite.AboutTest.clickAbout@2638011]" started-at="2020-11-23T21:28:16 EST" name="afterMethod" finished-at="2020-11-23T21:28:16 EST" duration-ms="164" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:appleBite.AboutTest.ClickAbout@424e1977]" started-at="2020-11-23T11:17:06 EST" name="beforeMethod" finished-at="2020-11-23T11:17:16 EST" duration-ms="10355" status="PASS">
+        <test-method is-config="true" signature="beforeMethod()[pri:0, instance:com.appleBite.AboutTest.clickAbout@2638011]" started-at="2020-11-23T21:28:16 EST" name="beforeMethod" finished-at="2020-11-23T21:28:26 EST" duration-ms="9965" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- beforeMethod -->
-        <test-method signature="verifyAboutext()[pri:0, instance:appleBite.AboutTest.ClickAbout@424e1977]" started-at="2020-11-23T11:17:16 EST" name="verifyAboutext" finished-at="2020-11-23T11:17:21 EST" duration-ms="5061" status="PASS">
+        <test-method signature="verifyAboutext()[pri:0, instance:com.appleBite.AboutTest.clickAbout@2638011]" started-at="2020-11-23T21:28:26 EST" name="verifyAboutext" finished-at="2020-11-23T21:28:31 EST" duration-ms="5018" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- verifyAboutext -->
-        <test-method is-config="true" signature="afterMethod()[pri:0, instance:appleBite.AboutTest.ClickAbout@424e1977]" started-at="2020-11-23T11:17:21 EST" name="afterMethod" finished-at="2020-11-23T11:17:21 EST" duration-ms="192" status="PASS">
+        <test-method is-config="true" signature="afterMethod()[pri:0, instance:com.appleBite.AboutTest.clickAbout@2638011]" started-at="2020-11-23T21:28:31 EST" name="afterMethod" finished-at="2020-11-23T21:28:33 EST" duration-ms="1743" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- afterMethod -->
-      </class> <!-- appleBite.AboutTest.ClickAbout -->
+      </class> <!-- com.appleBite.AboutTest.clickAbout -->
     </test> <!-- Default test -->
   </suite> <!-- Default suite -->
 </testng-results>
